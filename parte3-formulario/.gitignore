@@ -1,0 +1,15 @@
+
+# Dependencias do Node.js
+node_modules/
+
+# Arquivos temporarios do Cypress
+cypress/videos/
+cypress/downloads/
+
+# Arquivos sensiveis
+.env
+.env.*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

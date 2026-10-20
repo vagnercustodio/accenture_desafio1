@@ -1,0 +1,5 @@
+
+Arquivo de teste - Accenture
+Desafio tecnico de automacao Frontend
+Ferramenta: Cypress
+Finalidade: validar o upload no formulario DemoQA
