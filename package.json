@@ -1,0 +1,13 @@
+{
+  "name": "accenture-qa-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Desafio Accenture - automação de API BookStore DemoQA",
+  "scripts": {
+    "test:api": "cypress run --spec cypress/e2e/api/bookstore.cy.js",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
