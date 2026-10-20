@@ -39,4 +39,18 @@ A API pública pode sofrer indisponibilidade ou alterações sem aviso. O cenár
 Documentação: https://demoqa.com/swagger/
 
 ## Status
-Código preparado para execução local. A execução real e o resultado devem ser validados no ambiente com Node.js e Cypress instalados antes da entrega.
+## Status da execução
+
+**Status: APROVADO**
+
+A automação foi executada com sucesso em ambiente local utilizando Cypress 15.21.1, Node.js 24.22.0 e Electron 138 (headless).
+
+**Resultados:**
+- Cenários executados: 1
+- Cenários aprovados: 1
+- Falhas: 0
+- Tempo total: aproximadamente 3 segundos
+
+O cenário automatizado contempla as seis operações de API previstas no desafio, incluindo criação de usuário, autenticação, validação de autorização, consulta ao catálogo, associação de dois livros e verificação final dos dados cadastrados.
+
+A execução confirmou o funcionamento do fluxo automatizado no ambiente utilizado. Como a API é pública, resultados futuros dependem de sua disponibilidade.
