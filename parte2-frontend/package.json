@@ -1,0 +1,14 @@
+
+{
+  "name": "accenture-qa-automation-parte2",
+  "version": "1.0.0",
+  "description": "Desafio 2 Accenture - Automacao Frontend com Selenium WebDriver e JavaScript",
+  "private": true,
+  "scripts": {
+    "test": "node tests/browserWindows.test.js",
+    "test:connection": "node teste-conexao.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}

@@ -1,0 +1,22 @@
+
+# Dependências instaladas pelo npm
+node_modules/
+
+# Logs gerados durante a execução
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Arquivos temporários
+tmp/
+temp/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais do editor
+.vscode/
